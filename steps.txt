@@ -1,0 +1,16 @@
+// To get c17 circuit 
+
+1. atalanta -t
+2. atalanta -h t
+
+ TEST PATTERN FILE FOR C17
+
+___________________________________________________________
+* Name of circuit:  c17
+
+   1: 01010
+   2: 11110
+   3: 10101
+   4: 00111
+   5: 10010
+   6: 00101
